@@ -1,1 +1,19 @@
-
+{
+    "bug report":{
+                  "id": "490",
+                  "Severity": "Trivial",
+                  "Environment": "Windows 11 Chrome 114",
+                  "Title": "The title of block "Table of contents"  on any news page in [News & Analysis] is not translated if select any language except English",
+                  "Steps": {
+                            "1": "Navigate to Capital.com",
+                            "2": "Select any language except English",
+                            "3": "Click  [News & Analyse] ([News and Analysis])",
+                            "4": "Click any of news",
+                            "Note": "The bug is also reproduced for the mobile"
+                  }
+                  "Expected Result": "The title of block "Table of contents" is translated into the selected language",
+                  "Actual Result": "The title of block "Table of contents" is not translated into the selected language",
+                  "Attachment": "https://drive.google.com/file/d/1cI8iEc5cHe4GKwJBycSmGz8o_CFBrf0O/view?usp=sharing",
+                  "Bug started": "George Krasik"
+    }
+}
